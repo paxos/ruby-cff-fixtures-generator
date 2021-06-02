@@ -1,4 +1,4 @@
-### ruby-cff-fixtures
+### ruby-cff-fixtures-generator
 Runs a set of cff files through the `cff-converter-python` gem
 
 ### How to
